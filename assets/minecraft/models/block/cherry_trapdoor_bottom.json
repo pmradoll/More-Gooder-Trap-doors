@@ -1,0 +1,64 @@
+{
+	"format_version": "1.21.6",
+	"parent": "block/template_trapdoor_bottom",
+	"textures": {
+		"particle": "block/cherry_trapdoor",
+		"top": "block/cherry_trapdoor",
+		"sides": "block/cherry_trapdoor_sides",
+		"bottom": "block/cherry_trapdoor2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [4, 3, 16],
+			"faces": {
+				"north": {"uv": [4, 0, 0, 3], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#sides"},
+				"south": {"uv": [16, 3, 12, 0], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [0, 0, 4, 16], "texture": "#top"},
+				"down": {"uv": [0, 16, 4, 0], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [12, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [16, 0, 12, 3], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 3, 16, 0], "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [4, 3, 0, 0], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#sides"},
+				"up": {"uv": [12, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [12, 16, 16, 0], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 0, 0],
+			"to": [12, 3, 4],
+			"faces": {
+				"north": {"uv": [12, 0, 4, 3], "texture": "#sides", "cullface": "north"},
+				"south": {"uv": [4, 0, 12, 3], "texture": "#sides"},
+				"up": {"uv": [4, 0, 12, 4], "texture": "#top"},
+				"down": {"uv": [4, 4, 12, 0], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 0, 12],
+			"to": [12, 3, 16],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 3], "texture": "#sides"},
+				"south": {"uv": [12, 3, 4, 0], "texture": "#sides", "cullface": "south"},
+				"up": {"uv": [4, 12, 12, 16], "texture": "#top"},
+				"down": {"uv": [4, 16, 12, 12], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 1.5, 4],
+			"to": [12, 1.5, 12],
+			"faces": {
+				"up": {"uv": [4, 4, 12, 12], "texture": "#top"},
+				"down": {"uv": [4, 12, 12, 4], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

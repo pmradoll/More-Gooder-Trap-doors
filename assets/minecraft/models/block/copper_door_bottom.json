@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/template_copper_door_bottom",
+	"textures": {
+		"bottomright": "block/copper_door_bottom2",
+		"bottom": "block/copper_door_bottom",
+		"particle": "block/copper_door_hinges",
+		"hinges": "block/copper_door_hinges",
+		"sides": "block/copper_door_sides"
+	}
+}

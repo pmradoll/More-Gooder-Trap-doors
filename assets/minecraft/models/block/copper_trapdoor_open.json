@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/template_copper_trapdoor_open",
+	"textures": {
+		"particle": "block/copper_trapdoor",
+		"top": "block/copper_trapdoor",
+		"sides": "block/copper_trapdoor_sides",
+		"bottom": "block/copper_trapdoor2"
+	}
+}

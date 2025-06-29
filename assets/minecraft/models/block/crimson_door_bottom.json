@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/door_bottom",
+	"textures": {
+		"bottomright": "block/crimson_door_bottom2",
+		"particle": "block/crimson_door_bottom",
+		"bottom": "block/crimson_door_bottom",
+		"hinges": "block/crimson_door_hinges",
+		"sides": "block/crimson_door_sides"
+	}
+}

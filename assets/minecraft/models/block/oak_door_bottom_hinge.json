@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/door_bottom_rh",
+	"textures": {
+		"bottomright": "block/oak_door_bottom",
+		"bottom": "block/oak_door_bottom2",
+		"hinges": "block/oak_door_hinges",
+		"sides": "block/oak_door_sides"
+	}
+}

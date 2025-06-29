@@ -1,0 +1,9 @@
+{
+	"parent": "block/template_trapdoor_open",
+	"textures": {
+		"particle": "block/crimson_trapdoor",
+		"top": "block/crimson_trapdoor",
+		"bottom": "block/crimson_trapdoor2",
+		"sides": "block/crimson_trapdoor_sides"
+	}
+}
