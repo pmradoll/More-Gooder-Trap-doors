@@ -1,0 +1,9 @@
+{
+	"parent": "block/template_trapdoor_bottom",
+	"textures": {
+		"particle": "block/warped_trapdoor",
+		"top": "block/warped_trapdoor",
+		"bottom": "block/warped_trapdoor2",
+		"sides": "block/warped_trapdoor_sides"
+	}
+}

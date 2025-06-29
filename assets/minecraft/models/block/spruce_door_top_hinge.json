@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/door_top_rh",
+	"textures": {
+		"top": "block/spruce_door_top2",
+		"topright": "block/spruce_door_top",
+		"hinges": "block/spruce_door_hinges",
+		"sides": "block/spruce_door_sides"
+	}
+}
