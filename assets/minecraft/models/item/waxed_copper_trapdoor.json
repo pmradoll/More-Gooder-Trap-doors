@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/template_trapdoor_bottom_outline",
+	"textures": {
+		"top": "block/copper_trapdoor",
+		"sides": "block/copper_trapdoor_sides",
+		"bottom": "block/copper_trapdoor2",
+		"outline": "block/honey_block_top"
+	}
+}

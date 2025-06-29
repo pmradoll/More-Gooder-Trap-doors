@@ -1,0 +1,11 @@
+{
+	"parent": "item/template_copper_door",
+	"textures": {
+		"top": "block/copper_door_top",
+		"top2": "block/copper_door_top2",
+		"bottom": "block/copper_door_bottom",
+		"bottom2": "block/copper_door_bottom2",
+		"hinges": "block/copper_door_hinges",
+		"sides": "block/copper_door_sides"
+	}
+}

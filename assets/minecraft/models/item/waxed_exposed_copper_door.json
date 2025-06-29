@@ -1,0 +1,11 @@
+{
+	"parent": "item/waxed_copper_door",
+	"textures": {
+		"top": "block/exposed_copper_door_top",
+		"top2": "block/exposed_copper_door_top2",
+		"bottom": "block/exposed_copper_door_bottom",
+		"bottom2": "block/exposed_copper_door_bottom2",
+		"hinges": "block/exposed_copper_door_hinges",
+		"sides": "block/exposed_copper_door_sides"
+	}
+}
